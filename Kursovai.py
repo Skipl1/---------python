@@ -608,11 +608,3 @@ def main():
     linprog_solver.solve()
 if __name__ == "__main__":
     main()
-
-
-# max
-# 1 1
-# 3
-# 2 11 <= 38
-# 1 1 <= 7
-# 4 -5 <= 5
